@@ -20,7 +20,9 @@ We use the images in folder `our_input` to renderer novel view video. The result
 #### After preprocessing
 
 Before rendering, resize the images to proper size
+
 ![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set1/process1.png)
+
 ![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set1/process2.png)
 
 #### Output
@@ -37,7 +39,9 @@ Before rendering, resize the images to proper size
 #### After preprocessing
 
 Before rendering, resize the images to proper size
+
 ![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set2/process1.png)
+
 ![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set2/process2.png)
 
 #### Output
