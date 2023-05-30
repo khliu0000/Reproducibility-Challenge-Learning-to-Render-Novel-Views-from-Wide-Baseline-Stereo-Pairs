@@ -12,30 +12,34 @@ We use the images in folder `our_input` to renderer novel view video. The result
 
 ### Experiment 1
 
-Two input images:
+#### Two input images
+
 ![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set1/1.jpg)
 ![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set1/2.jpg)
 
+#### After preprocessing
+
 Before rendering, resize the images to proper size
-After preprocessing:
-![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set1/process1.jpg)
-![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set1/process2.jpg)
+![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set1/process1.png)
+![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set1/process2.png)
 
-Output:
+#### Output
+
 ![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_output/set1_output.gif)
-
-[![IMAGE ALT TEXT](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set1/1.jpg)](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_output/set1_output.mp4 "Experiment 1")
 
 ### Experiment 2
 
-Two input images:
+#### Two input images
+
 ![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set2/1.jpg)
 ![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set2/2.jpg)
 
-Before rendering, resize the images to proper size
-After preprocessing:
-![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set2/process1.jpg)
-![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set2/process2.jpg)
+#### After preprocessing
 
-Output
+Before rendering, resize the images to proper size
+![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set2/process1.png)
+![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set2/process2.png)
+
+#### Output
+
 ![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_output/set2_output.gif)
