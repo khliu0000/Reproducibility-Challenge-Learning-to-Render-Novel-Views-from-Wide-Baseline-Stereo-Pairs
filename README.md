@@ -12,12 +12,12 @@ We use the images in folder `our_input` to renderer novel view video. The result
 
 ### Experiment 1
 
-![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/tree/main/our_input/set1/1.jpg)
-![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/tree/main/our_input/set1/2.jpg)
-![Watch the video](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_output/set1_output.mp4)
+![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set1/1.jpg)
+![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set1/2.jpg)
+https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_output/set1_output.mp4
 
 ### Experiment 2
 
-![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/tree/main/our_input/set2/1.jpg)
-![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/tree/main/our_input/set2/2.jpg)
-![Watch the video](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_output/set2_output.mp4)
+![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set2/1.jpg)
+![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set2/2.jpg)
+https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_output/set2_output.mp4
