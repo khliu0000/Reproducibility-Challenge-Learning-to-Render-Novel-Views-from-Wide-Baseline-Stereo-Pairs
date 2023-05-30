@@ -39,6 +39,7 @@ The evaluation using test set of subset, which including 997 scenes from realest
 ### Result
 We evalutate their release weight and our weights using test set of the subset.  
 |              |LPIPS|SSIM |PSNR |MSE   |
+|--------------|-----|-----|-----|------|
 |Paper         |0.262|0.839|21.38|0.0110|
 |Release Weight|0.317|0.809|21.11|0.0112|
 |Our Trained(1)|0.355|0.773|19.50|0.0161|
