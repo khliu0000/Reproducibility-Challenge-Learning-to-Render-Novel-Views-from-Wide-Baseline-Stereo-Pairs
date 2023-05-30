@@ -19,6 +19,8 @@ Two inputs
 Output
 ![image](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_output/set1_output.gif)
 
+[![IMAGE ALT TEXT](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_input/set1/1.jpg)](https://github.com/khliu0000/Reproducibility-Challenge-Learning-to-Render-Novel-Views-from-Wide-Baseline-Stereo-Pairs/blob/main/our_output/set1_output.mp4 "Experiment 1")
+
 ### Experiment 2
 
 Two inputs
