@@ -12,7 +12,9 @@ Paper: Learning to Render Novel Views from Wide-Baseline Stereo Pairs
 Please follow the source github to build up the environment.  
 The release weights from source github may be needed if you want to evaluate their release weights by yourself. Please download and unzip it.  
 The dataset we use to reproduce evaluation and training are the subset of realestate10k, which also can be downloaded through source github. Please be aware that the images and camera pose files needed to be placed at specific directory.  
+  
 The reproducibility of evaluation and trainng require a GPU of gram more than 11GB. We tried to reproduce using 2080ti 11GB and failed. We reproduce successfully with A5000 24GB.  
+  
 The following command are used in our experiment. We use one A5000 GPU in our experiment.  
 Please note that the config file at ./experiment_scripts/ need to be modified to run the experiment. You can create your own profile in it.  
   
@@ -37,14 +39,11 @@ The evaluation using test set of subset, which including 997 scenes from realest
 ### Result
 We evalutate their release weight and our weights using test set of the subset.  
 |              |LPIPS|SSIM |PSNR |MSE   |
-|--------------|-----|-----|-----|------|
 |Paper         |0.262|0.839|21.38|0.0110|
-|--------------|-----|-----|-----|------|
 |Release Weight|0.317|0.809|21.11|0.0112|
-|--------------|-----|-----|-----|------|
 |Our Trained(1)|0.355|0.773|19.50|0.0161|
-|--------------|-----|-----|-----|------|
-|Our Trained(2)|0.356|0.769|19.39|0.0165|
+|Our Trained(2)|0.356|0.769|19.39|0.0165|  
+
 (1) means using only image loss. (2) adds two additional loss by the second training command.
 
 
