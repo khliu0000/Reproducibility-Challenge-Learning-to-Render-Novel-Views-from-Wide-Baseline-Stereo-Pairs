@@ -4,7 +4,9 @@ This is a reproducibility challenge in class "Advances in 3D Vison", NCYU.
 
 Paper: Learning to Render Novel Views from Wide-Baseline Stereo Pairs
 
-[Github](https://github.com/yilundu/cross_attention_renderer/tree/master)
+[Github](https://github.com/yilundu/cross_attention_renderer/tree/master)  
+
+All the codes and experimental scripts we use are from source github. Please refer to the source github page for implementaion details.  
 
 
 
